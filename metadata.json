@@ -1,0 +1,6 @@
+{
+  "name": "Asisten Alur Novel AI",
+  "description": "Asisten AI cerdas untuk menyusun alur cerita (plot), mengatur karakter, tempat imajiner, timeline, dan membuat chapter novel secara konsisten.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
